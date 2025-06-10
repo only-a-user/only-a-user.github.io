@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Only-a-Blog
+title: only-a-blog
 email: blog@steppler.ai
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I'm Kilian, aka @Only-a-User. With this blog I want to explore some topics interesting to me.
+  Hi, I'm Kilian, aka @only-a-user. With this blog I want to explore some topics interesting to me.
   Posts won't be regularly scheduled, I'll post whenever I feel like it, or if I have a particularly boring weekend.
   With my posts you can expect a loosely structured, pseudo-scientific approach. The best thing is, as this isn't uni,
   technically I don't even have to cite sources, though I think i will here and there, just for good measure.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: Only-a-User
+github_username: only-a-user
 
 # Build settings
 theme: minima
