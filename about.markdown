@@ -14,9 +14,9 @@ This is a static web page generated with Jekyll. For more information you can re
 
 Kilian Steppler
 
-Ernsthaldenstraße 47
+Lerchenstr. 117
 
-70565 Stuttgart
+80995 München
 
 ## Kontaktaufnahme:
 
